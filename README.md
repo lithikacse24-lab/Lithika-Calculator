@@ -42,7 +42,7 @@ calculator-app/
 ### Input
 ![Input Screenshot](screenshots/input.png)
 ### Output
-![Output Screenshot](screenshots/output.png)
+![Output Screenshot](screenshots/result.png)
 
 ---
 **⭐ If you found this project useful, please consider giving it a star on GitHub!**
